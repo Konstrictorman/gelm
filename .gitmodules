@@ -1,0 +1,6 @@
+[submodule "gelm_final"]
+	path = gelm_final
+	url = https://github.com/Konstrictorman/gelm_final.git
+[submodule "final/gelm_final"]
+	path = final/gelm_final
+	url = https://github.com/Konstrictorman/gelm_final.git
